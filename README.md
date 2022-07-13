@@ -22,7 +22,7 @@
 <li>That concludes our discussion. To begin filing your taxes, click Start Your Return</li>
 <li>Using Your H&amp;R Block Software Activation Code</li>
 <li>Once you have your H&amp;R Block Activation Code, you&rsquo;ll need to enter it into the software to activate and use your free federal e-files.</li>
-</ol>
+</ol> 
 <p>To activate your software:</p>
 <ul>
 <li>Go to <strong>activate.hrblock.com/crj</strong> and log in.</li>
